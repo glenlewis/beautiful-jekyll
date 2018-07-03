@@ -23,10 +23,9 @@ description: KISA
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  About Me: "glenlewis"
   Resources:
     - GitHub Pages: "https://pages.github.com/"
-  Home: "http://kisa.com/glenlewis"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
